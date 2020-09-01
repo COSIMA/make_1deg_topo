@@ -1,3 +1,5 @@
 *.nc
+*.txt
+*-bkp
 sea_num
 

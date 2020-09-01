@@ -28,6 +28,8 @@ cd -
 
 ./topogtools/float_vgrid  # this overwrites ocean_vgrid.nc
 ./topogtools/gen_topo  # generates topog_new.nc; takes about 2 hours at 0.25 deg, so must be run via qsub of this script
+./topogtools/editTopo.py --overwrite --nogui --apply topog_edits.txt --output topog_new_edited.nc topog_new.nc  # see https://github.com/COSIMA/access-om2/issues/158#issuecomment-669624837
+mv topog_new_edited.nc topog_new.nc
 ./topogtools/deseas topog_new.nc topog_new_deseas.nc  # remove seas
 cp topog_new_deseas.nc topog_new_deseas_partialcell.nc
 ./topogtools/do_partial_cells topog_new_deseas_partialcell.nc 1.0 0.2  # this overwrites its input, so we make copy in prev line
