@@ -1,0 +1,541 @@
+111:112, 247, 50 #Beringia
+282, 204, 1000 #Gibralter
+280, 203,  500 #Gibralter
+274:275, 203:204, 300 #Gibralter
+276, 221, 70 #Irish Sea (SLR problem in semi closed sea
+276, 222, 50 #Irish Sea (SLR problem in semi closed sea
+309:321, 209:214, 0 # close Black Sea
+327:335, 205:216, 0 # close Caspian Sea
+38:41, 118:119, 650 #ITF Makassar St
+40, 121:134, 0  #ITF Makassar St
+38:39, 120:121, 650  #ITF Makassar St
+38:39, 126:130, 650  #ITF Makassar St
+38:39, 133:135, 650  #ITF Makassar St
+38, 136:137, 650  #ITF Makassar St
+39:40, 140, 650   #ITF Makassar St
+41, 135:139, 0  #ITF Makassar St
+39, 141, 650  #ITF Makassar St
+41, 140, 650  #ITF Makassar St
+45, 141:142, 0 #ITF Maluka Sea (north)
+45, 142, 2340  #ITF Maluka Sea (north)
+46:47, 135:143, 2340  #ITF Maluka Sea (north)
+46:48, 144:146, 2340  #ITF Maluka Sea (north)
+48:49, 147, 2340  #ITF Maluka Sea (north)
+47, 147:148, 2340  #ITF Maluka Sea (north)
+45, 143:146, 1800 #ITF Sangihe Ridge
+46:47, 131:134, 2340 #ITF Lifamatola
+50, 130:131, 700 #ITF Halmahera Sea to Seram Sea
+49:50, 132:137, 700 #ITF Halmahera Sea to Seram Sea
+49, 138:139, 700 #ITF Halmahera Sea to Seram Sea
+48, 136:143, 0 #ITF Halmahera
+52:53, 101:103, 0 #Coburg Peninsula Australia
+36:37, 111:112, 300 #ITF Lombok St
+52, 114, 0 # ITF Pulau Yamdena
+47, 111, 0 #ITF Timor
+46, 110, 0 #ITF Timor
+44, 106, 0 #ITF Timor
+50:51, 111:114, 1250 #ITF Leti St
+48:49, 112, 1250 #ITF Leti St
+49, 109, 1250 #ITF Leti St
+46:47, 107:108, 1500 #ITF Timor Passage
+46, 109, 1400 #ITF Timor Passage
+45:46, 104:107, 1600 #ITF Timor Passage
+43:44, 104:105, 1890 #ITF Timor Passage
+42, 104, 1890  #ITF Timor Passage
+41:42, 105, 1890  #ITF Timor Passage
+43, 112, 0 #ITF Ombai St
+44:45, 112:113, 1500 #ITF Ombai St 
+45, 110:111, 1500 #ITF Ombai St 
+42:43, 107, 1150 #ITF Savu St
+40:41, 109:110, 900 #ITF Sumba St
+41, 107:108, 0 #ITF Sumba
+40, 108, 0 #ITF Sumba
+29:30, 128:130, 50 #Karimata St
+61:64, 105:109, 50 #Torres St
+347:352, 262:293, 0 #Gulf of Ob (siberian tripole)
+344:346, 285:290, 0 #Gulf of Ob (siberian tripole)
+159:172, 265:280, 0 #Canadian tripole
+168:174, 286:300, 0 #Canadian tripole
+148, 300, 0 #Canadian tripole
+167, 300, 0 #Canadian tripole
+212:213, 295:298, 0 #Canadian tripole
+187:191, 298:300, 0 #Canadian tripole
+189:193, 283:289, 0 #Canadian tripole
+230:231, 293:295, 0 #Ellesmere Is
+212:213, 295:299, 0 #Ellesmere Is
+214:217, 288:292, 0 #Ellesmere Is
+228, 286:287, 80 #south Nares St (b/w greenland and ellesmere) the number was made up by SJM
+229, 286, 80 #south Nares St (b/w greenland and ellesmere)
+234:235, 289, 80 #mid Nares St (b/w greenland and ellesmere)
+236:240, 288:289, 80 #mid Nares St (b/w greenland and ellesmere)
+243:244, 288:289, 80 #north Nares St (b/w greenland and ellesmere)
+245:246, 288, 80 #north Nares St (b/w greenland and ellesmere)
+229:230, 257:258, 0 #fill Greenland
+253:254, 258:259, 0 #fill Greenland
+90:91, 254:255, 0 #cherskiy (far east siberia)
+83:84, 237:238, 0 #cherskiy (far east siberia)
+42, 206:207, 50 #yellow sea
+315:323, 179:195, 0 # fill Red Sea for now
+330:338, 192:197, 0 # fill Persian Gulf for now
+291:292, 226:229, 50 #Copenhagen
+300:301, 235:236, 50 #Baltic Sea
+302:303, 241:243, 50 #Baltic Sea
+316:322, 243:250, 0 #close White Sea
+350:353, 22:27, 0 #close Amery Ice Shelf
+67, 33:34, 0 #Mertz Glacier
+84:85, 10, 0 #Drygalski Ice Tongue
+87:95, 2, 0 #Ross Ice Shelf
+87, 3 , 0 #Ross Ice Shelf
+91:92, 3, 0 #Ross Ice Shelf
+122, 2:4, 0 #Ross Ice Shelf
+123:126, 4, 0 #Ross Ice Shelf
+128:129, 3, 0 #Ross Ice Shelf
+219:232, 2, 0 #Ronne Ice Shelf
+219:231, 3, 0 #Ronne Ice Shelf
+219:229, 4, 0 #Ronne Ice Shelf
+219:227, 5, 0 #Ronne Ice Shelf
+219:225, 6, 0 #Ronne Ice Shelf
+219:224, 7, 0 #Ronne Ice Shelf
+219:223, 8, 0 #Ronne Ice Shelf
+219:222, 9, 0 #Ronne Ice Shelf
+219:221, 10, 0 #Ronne Ice Shelf
+219:220, 11, 0 #Ronne Ice Shelf
+219, 14:17, 0 #Ronne Ice Shelf
+232:233, 18:19, 250 # remove island from central Weddell
+216:220, 22:35, 0 # Larsen Ice Shelf
+221, 28:30,  0 # Larsen Ice Shelf
+222, 41, 0 # South Shetland Is
+261:263, 10:18, 0 #eastern weddell coastline
+262, 19, 0 #eastern weddell coastline
+260, 10:16, 0 #eastern weddell coastline
+258:259, 11:14, 0 #eastern weddell coastline
+257, 10:13, 0 #eastern weddell coastline
+256, 9:11, 0 #eastern weddell coastline
+254:255, 7:10, 0 #eastern weddell coastline
+253, 7, 0 #eastern weddell coastline
+251, 6, 0 #eastern weddell coastline
+265:268, 19:20, 0 #eastern weddell coastline
+268:269, 21, 0 #eastern weddell coastline
+269:270, 23, 0 #eastern weddell coastline
+275:281, 23, 0 #eastern weddell coastline
+274:282, 24:25, 0 #eastern weddell coastline
+279:280, 26, 0 #eastern weddell coastline
+280, 27:28, 0 #eastern weddell coastline
+185:192, 18:19, 0 # Bellingshausen coast
+171:172, 15:16, 0 # West? or some such ice shelf 252degE
+198, 193:194, 50 #Florida
+201:202, 193, 300 #Florida
+252:254, 248:251, 500 #Denmark Strait (Greenland to Iceland)
+273, 234:235, 840 #Faeroe Bank Channel (Faeroe Is to Scotland)
+274:275, 234:238, 840 #Faeroe Bank Channel (Faeroe Is to Scotland)
+276, 237:238, 840 #Faeroe Bank Channel (Faeroe Is to Scotland)
+277:278, 237, 840 #Faeroe Bank Channel (Faeroe Is to Scotland)
+269:272, 241, 400 #Iceland Faeroe Ridge (Note Faeroe Is 62N 7W)
+21:22, 145:146, 0 #close Malacca 
+19, 168:169, 0 #close Gulf of Thailand
+215, 35, 200 #antarctic peninsula east 20080529
+214, 33, 190 #antarctic peninsula east 20080529
+211:212, 27:28, 0 #antarctic peninsula east 20080529
+205:207, 27, 0 #antarctic peninsula east 20080529
+205, 22:25, 0 #antarctic peninsula east 20080529
+204, 24, 350 #antarctic peninsula east 20080529
+204, 21, 200 #antarctic peninsula east 20080529
+201, 19, 200 #antarctic peninsula east 20080529
+204, 27, 110 #antarctic peninsula east 20080529
+221, 35:36, 0 #antarctic peninsula east2 20080529
+223, 38, 0 #antarctic peninsula east2 20080529
+223:224, 39, 0 #antarctic peninsula east2 20080529
+226, 40, 200 #antarctic peninsula east2 20080529
+221, 38, 0 #antarctic peninsula east2 20080529
+219:220, 40, 337 #antarctic peninsula east2 20080529
+264, 20, 300 #weddell east2 20080529
+284:287, 26, 200 #weddell east3 20080529
+292:294, 27, 300 #weddell east3 20080529
+291:293, 26, 200 #weddell east3 20080529
+296, 27, 200 #weddell east3 20080529
+315, 29, 100 #weddell east4 20080529
+320, 28, 110 #weddell east4 20080529
+318:320, 27, 110 #weddell east4 20080529
+324:326, 31, 110 #weddell east4 20080529
+329, 32, 100 #weddell east4 20080529
+335, 35, 0 #weddell east5 20080529 Cape Ann
+353, 28, 120 #prydz 20080529 
+358, 28, 120 #prydz 20080529 
+3, 34, 0 #east antarctica 1 (80-110E) 20080529 
+4:5, 33, 0 #east antarctica 1 (80-110E) 20080529 
+7, 34, 200 #east antarctica 1 (80-110E) 20080529 
+8, 34, 0 #east antarctica 1 (80-110E) 20080529 
+9, 34, 200 #east antarctica 1 (80-110E) 20080529 
+10:11, 33, 200 #east antarctica 1 (80-110E) 20080529 
+17, 36, 200 #east antarctica 1 (80-110E) 20080529 
+21, 36:37, 100 #east antarctica 1 (80-110E) 20080529 
+22:23, 35:36, 150 #east antarctica 1 (80-110E) 20080529 
+29:30, 33, 150 #east antarctica 1 ( 80-110E) 20080529 
+31, 34, 150 #east antarctica 2 (110-140E) 20080529 
+42, 34, 0 #east antarctica 2 (110-140E) 20080529 
+44:45, 33, 0 #east antarctica 2 (110-140E) 20080529 
+48:49, 33, 100 #east antarctica 2 (110-140E) 20080529 
+50, 35, 100 #east antarctica 2 (110-140E) 20080529 
+56, 34:35, 0 #east antarctica 2 (110-140E) 20080529 !Dibble
+64:66, 33:34, 500 #east antarctica 3 (140-170E) 20080529 !adelie depression
+68:69, 31, 200 # #east antarctica 3 (140-170E) 20080529
+67, 31:32, 200 # #east antarctica 3 (140-170E) 20080529
+74, 30, 100 # #east antarctica 3 (140-170E) 20080529
+78, 28, 100 # #east antarctica 3 (140-170E) 20080529
+81, 27, 100 # #east antarctica 3 (140-170E) 20080529
+81:83, 26, 100 # #east antarctica 3 (140-170E) 20080529
+84:86, 25:26, 100 # #east antarctica 3 (140-170E) 20080529
+87:88, 25, 150 # #east antarctica 3 (140-170E) 20080529
+88, 24, 150 # #east antarctica 3 (140-170E) 20080529
+88:89, 17, 200 # ross 20080529
+85, 13, 200 # ross 20080529
+84, 11:12, 200 # ross 20080529
+84, 3, 150 # ross 20080529
+89, 8, 300 # ross 20080529
+129, 3:4, 0 #ross2 20080529
+129:130, 5:6, 0 #ross2 20080529
+131, 8, 200 #ross2 20080529
+133:134, 8, 130 #ross2 20080529
+135:136, 9, 0 #ross2 20080529
+137, 10, 100 #ross2 20080529
+141, 11, 0 # bellingshausen 20080529
+141:143, 12, 0 # bellingshausen 20080529
+148, 14, 200 # bellingshausen 20080529
+150, 15, 150 # bellingshausen 20080529
+153, 16, 150 # bellingshausen 20080529
+154, 17, 150 # bellingshausen 20080529
+156, 17, 0 # bellingshausen 20080529
+159:160, 16, 0 # bellingshausen 20080529
+161, 16, 150 # bellingshausen 20080529
+167, 15, 0 # bellingshausen 20080529
+175:177, 15:16, 100 # bellingshausen2 20080529
+175, 17, 150 # bellingshausen2 20080529
+176:177, 17:18, 150 # bellingshausen2 20080529
+177, 19, 150 # bellingshausen2 20080529
+178, 20, 0 # bellingshausen2 20080529
+178, 21, 100 # bellingshausen2 20080529
+180:183, 22, 100 # bellingshausen2 20080529
+196:197, 19, 100 # bellingshausen2 20080529
+188, 22, 300 # bellingshausen2 20080529
+315:316, 194:195, 50 # red sea 20080530
+316:317, 192:193, 50 
+317:318, 190:191, 50
+318:319, 188:189, 50
+318:320, 186:187, 50
+319:321, 184:185, 50
+320:322, 182:183, 50
+322:323, 180:181, 50
+317, 194, 50
+315, 193, 50
+318, 192, 50
+316, 191, 50
+319, 190, 50
+317, 189, 50
+320, 188, 50
+321, 186, 50
+322, 184, 50
+321, 180:181, 50
+322:323, 178:179, 50
+322:323, 174:177, 50
+324:325, 175, 50
+322, 174:175, 0
+324, 176:177, 50
+329:331, 196:197, 50 # persian gulf 20080530
+330:332, 194:195, 50
+333:337, 193:194, 50
+337:339, 192:193, 50
+331:332, 193, 50
+338, 194, 50
+338:339, 191, 50
+333:335, 192, 50
+329, 263, 50
+329, 262, 50
+326, 256:257, 70
+45, 288:289, 50 #arctic 20080707
+45:46, 288, 50
+44, 274, 50
+53, 264:265, 50
+69, 265, 50
+153, 276:277, 50
+193, 295, 50
+199, 296, 70
+195:196, 267:268, 0
+195, 252, 50
+197, 240, 50
+198, 240, 0
+203, 263, 50
+200, 234, 90
+215:216, 244, 130
+214, 245, 120
+288, 212, 90  #med
+296, 206:207, 0  #corsica
+297, 206, 0  #corsica
+300, 209:210, 240
+299:300, 208, 240
+298, 208, 0 #adriatic
+298, 211, 60 #adriatic
+295, 210:211, 60 #adriatic
+293:296, 212:213, 60 #adriatic
+209,173, 50     #venezuela
+208, 173, 0 #venezuela
+21, 150, 50    #singapore
+73, 104, 120 #newguinea
+74, 103, 120 #newguinea
+70:71, 112, 100    #newguinea
+69, 120, 0 #bismark 
+72, 121, 0 #bismark 
+72, 123:124, 0 #bismark 
+73, 125:127, 0 #bismark 
+72, 128, 0 #bismark 
+39, 167, 0 #palawan
+39, 165, 0 #palawan
+38, 163:164, 0 #palawan
+31, 187:188, 0 #Hainan
+28, 188, 80     #Gulf of Tonkin
+49, 202:203, 50 #China
+54:55, 201:202, 0 #Japan
+61, 209:210, 0 #south hokkaido
+65, 211:212, 0 #east hokkaido
+113, 237, 50 #remove Islandsouth of Bering St
+119:120, 227, 0 #aleutian
+112:113, 224, 0 #aleutian
+126, 229, 130    #aleutian
+172, 193, 280    #Sonora
+73, 86, 180 #remove island off queensland
+35, 112, 0  # Lombok  # incorporate changes of Bec Cowley
+47, 106, 1600 # Timor St - open corner properly
+48, 108, 1415 # Timor St - open corner properly
+38:40, 136:137, 1450  #Makassar - take 2
+38:39, 123:135, 1800  #Makassar - take 2
+38:39, 118:122, 700  #Makassar - take 2
+40:41, 118:119, 700
+37:38, 116:119, 700
+36:38, 113:115, 700
+46:49, 112:113, 1250
+47, 114, 0
+52:53, 128:130, 180 #West New Guinea
+68:69, 119:120, 1000 #East New Guinea - Vitiaz Strait - Bec Cowley - email 3 Sep 2008
+69, 121, 1000
+68, 118, 1100
+70, 119, 850
+49, 108, 220
+47, 98:99, 80  #Melville Is (was ~20)
+338, 300, 0    # east_tripole
+44:46, 103, 1000   # open timor one more row southward 20081031
+47, 105, 1000      # open timor one more row southward 20081031
+48, 107, 1000      # open timor one more row southward 20081031
+49, 108, 1000      # open timor one more row southward 20081031
+50, 109:110, 1000  # open timor one more row southward 20081031
+47, 104, 950       # open timor one more row eastward 20081105 (want two velocity points at all corners)
+48, 106, 950       # open timor one more row eastward 20081105 (want two velocity points at all corners)
+51, 136:137, 650   # open dampier st (NW Irian Jaya, c.f. Rodgers opening ITF south of equator)
+52:53, 136, 1870   # open dampier st (NW Irian Jaya, c.f. Rodgers opening ITF south of equator)
+87, 16, 280        # bulldoze spike point on Ross Sea - Cape Adare coast
+42, 137, 50	   # Makassar St north 200801216.1
+42, 139, 0	   # Makassar St north 200801216.1
+41, 139, 650	   # Makassar St north 200801216.1
+40, 135, 1450	   # Makassar St north 200801216.1
+38, 138, 1450	   # Makassar St north 200801216.1
+42, 141, 1700      # Makassar St north 200801216.1
+38, 139, 650       # Makassar St north 200801216.1
+39, 142:144, 650   # Makassar St north 200801216.1
+40, 132:134, 1450  # Makassar St north md 20081220
+37, 120:134,  200  # Makassar St north md 20081220
+39, 116:117,  700  # Makassar St north md 20081220
+49:50, 129, 700    #East-Banda 20081224
+51, 129:135, 700    #East-Banda
+52:53, 128:131, 700    #East-Banda
+52, 132, 700    #East-Banda
+52:54, 125, 800    #East-Banda
+54, 126, 0    #East-Banda
+53:54, 114:124, 800    #East-Banda
+52:54, 112:113, 800    #East-Banda
+40:41, 140, 750     # North Makassar St sill depth increase from 650 -> 750 m
+41, 139, 750
+39, 140:144, 750
+38, 139, 750
+37, 120:134,  300  # Makassar St north md 20081220
+38, 140, 750  	   # Makassar nth-west corner 20090102
+63, 105, 0 # torres
+322:324, 176:177, 80 #opening of red sea to allow extremely salty water to escape
+323:325, 175, 80 #opening of red sea to allow extremely salty water to escape
+323, 174, 80 #opening of red sea to allow extremely salty water to escape
+330:333, 217:218, 0 #20101125 additional closing of caspian required
+258:259, 9:10   , 0 #20101125 additional closing of weddell
+264:265, 14:15  , 0 #20101125 additional closing of weddell
+349:350, 20:21  , 0 #20101125 additional closing of amery
+161:168, 298:300, 0 #20101126 close embayments in Canadian archipelago
+188:200, 293:300, 0 #20101126 close embayments in Canadian archipelago
+165:167, 292:300, 0 #20101126 close embayments in Canadian archipelago
+191:204, 269:293, 0 #20101126 close embayments in Canadian archipelago
+194:197, 245:255, 0 #20101126 close embayments in Canadian archipelago
+214:223, 291:299, 0 #20101126 close embayments in Canadian archipelago
+221,     300,     0 #20101126 close embayments in Canadian archipelago
+153:154, 278:279, 0 #20101126 close embayments in Canadian archipelago
+153    , 273:279, 0 #20101126 close embayments in Canadian archipelago
+152:153, 265:266, 0 #20101126 close embayments in Canadian archipelago
+136:139, 298    , 0 #20101126 close embayments in Canadian archipelago
+140    , 299    , 0 #20101126 close embayments in Canadian archipelago
+149:150, 297:298, 0 #20101126 close embayments in Canadian archipelago
+146:148, 292:293, 0 #20101126 close embayments in Canadian archipelago
+222    , 300    , 0 #20101126 close embayments in Canadian archipelago
+143:145, 288    , 0 #20101126 close embayments in Canadian archipelago
+142:144, 297    , 300 #20101126 open Canadian archipelago
+154:157, 287:293, 350 #20101126 open NW passage
+156:157, 294:295, 300 #20101126 open NW passage
+152:156, 296:299, 350 #20101126 open NW passage
+155,294,300           #20101126 open NW passage
+152:157, 300,  200    #20101126 open NW passage
+204:209, 300,  200    #20101126 open NW passage
+204:209, 296:299,  300    #20101126 open NW passage
+204:209, 291:295,  350    #20101126 open NW passage
+151, 288:289, 300          #20101126 open NW passage
+153:155, 286, 300          #20101126 open NW passage
+152:153, 285, 300          #20101126 open NW passage 
+144:145, 286:287, 300      #20101126 open NW passage
+146    , 286:287, 300      #20101126 open NW passage
+147:148, 287,     300      #20101126 open NW passage
+149:151, 284,     300      #20101126 open NW passage
+154:155, 285,     300      #20101126 open NW passage
+141:143, 285,     275      #20101126 open NW passage
+146, 280:281,     300      #20101126 open NW passage
+205:206, 288,    300      #20101126 open NW passage
+207:208, 287,    300      #20101126 open NW passage
+208:209, 284:286, 300     #20101126 open NW passage
+210, 283, 300             #20101126 open NW passage
+210:211, 282, 300         #20101126 open NW passage
+211, 288, 300             #20101126 open NW passage
+214, 284, 300             #20101126 open NW passage
+213:215, 285, 300         #20101126 open NW passage
+207, 287:288, 275         #20101126 open NW passage
+209, 290, 275         #20101126 open NW passage
+210, 289:290, 275         #20101126 open NW passage
+207, 284:286, 275         #20101126 open NW passage
+211, 286:287, 275         #20101126 open NW passage
+212, 286, 275         #20101126 open NW passage
+211, 289, 275         #20101126 open NW passage
+212, 287, 275         #20101126 open NW passage
+213, 286, 275         #20101126 open NW passage
+209, 283, 275         #20101126 open NW passage
+202:203, 296:297, 0       #20101126 close embayments in Canadian archipelago
+159, 299:300, 0       #20101126 close embayments in Canadian archipelago
+166, 296:297, 0       #20101126 close embayments in Canadian archipelago
+ 19, 170:171, 0 #20101206 close dodgy points
+ 19, 166:167, 0 #20101206 close dodgy points
+ 20, 159    , 0 #20101206 close dodgy points
+ 26:27, 120, 0  #20101206 close dodgy points
+40, 168, 0
+44, 107, 0 
+54, 130:131, 0
+43:44, 133, 0
+43, 123:124, 0
+44:45, 168:170, 0
+118, 226, 0
+211, 50 , 0 #drake
+206:207, 187, 50 #cuba
+207, 188, 50     #cuba
+220, 215, 50 #nova scotia
+218:219, 214, 0 #nova scotia
+308:309, 235:236, 0 #gulf of finland
+291, 211, 0 #corsica
+290, 209:210, 0 #corsica
+277, 220, 0 #exeter
+219:220, 20:21, 0  #antarctica
+220, 18:19, 0
+222, 41, 90
+247, 2, 0
+248:249, 3, 0
+250, 4, 0
+263:264, 19, 0
+281:282, 26, 0
+283:288, 25, 0
+283, 26, 0
+288:290, 26, 0
+291:292, 25, 0
+294, 26, 0
+296:297, 26, 0
+303:305, 25, 0
+316:317, 27, 0
+316, 28, 0
+337, 33, 0
+339, 32, 0
+351, 29, 0
+355:356, 27, 0
+3, 32:33, 0
+6:7, 33, 0
+9, 33, 0
+16, 34:35, 0
+19:20, 34:35, 0
+24, 35, 0
+37, 33, 0
+50, 33:34, 0
+67:69, 30, 0
+91, 22, 150   #Cape Adare - Siobhan
+86, 16, 0
+83, 11:12, 0
+132, 2:3, 0
+130:131, 2:4, 0
+131:132, 5:7, 0
+133:134, 3, 0
+133:135, 4:5, 0
+133:134, 6:7, 0
+145, 13 , 0
+147:150, 13, 0
+150, 14, 0
+153:154, 15, 0
+154, 16, 0
+155, 17, 0
+157:158, 15:16, 0
+162:163, 15, 0
+178, 15:17, 0
+179:180, 17, 0
+178:184, 15:21, 0
+178, 21, 100   #restore corner point
+193:200, 16:18, 0
+201:202, 17:18, 0
+211, 20, 0
+212, 18, 0
+212:213, 19:21, 0
+209:211, 18:19, 0
+205:208, 15:27, 0
+203:204, 17:19, 0
+342:343, 289:290, 0 #nova zemlya east ?Volga? mouth
+14:16, 294:295, 0 #stupid inland sea around 81e, 70n
+19:20, 298:299, 0 #20101208 - dodgy points on tripolar fold 72E, 80N
+338, 300, 50      #20101208 - dodgy points on tripolar fold 72E, 80N
+20, 300, 0    # one more dodgy corner point after dec2009g 80E, 72N ?problem with fold dynamics? this cprner point is relatively +1m in sea level??
+249, 242:243, 2400 #20110615 Denmark St slippery slide
+250, 242:244, 2200 #20110615 Denmark St slippery slide
+251, 243:244, 2000 #20110615 Denmark St slippery slide
+252, 243:244, 1850 #20110615 Denmark St slippery slide
+250:251, 245, 2000 #20110615 Denmark St slippery slide
+250:251, 246, 1850 #20110615 Denmark St slippery slide
+252, 245:246, 1650 #20110615 Denmark St slippery slide
+253, 243:244, 1650 #20110615 Denmark St slippery slide
+252, 245, 1850 #20110615 Denmark St slippery slide
+252, 246, 1650 #20110615 Denmark St slippery slide
+253, 245, 1650 #20110615 Denmark St slippery slide
+253, 246, 1500 #20110615 Denmark St slippery slide
+252:253, 247, 1500 #20110615 Denmark St slippery slide
+250:251, 247, 1650 #20110615 Denmark St slippery slide
+253, 247, 1300 #20110615 Denmark St slippery slide
+252:253, 248, 1300 #20110615 Denmark St slippery slide
+252:253, 249, 1150 #20110615 Denmark St slippery slide
+252:253, 250, 1000 #20110615 Denmark St slippery slide
+252:253, 251, 850 #20110615 Denmark St slippery slide
+254, 248:249, 1150 #20110615 Denmark St slippery slide
+254, 249, 1000 #20110615 Denmark St slippery slide
+254, 250:251, 850 #20110615 Denmark St slippery slide
+255:256, 250:251, 650 #20110615 Denmark St slippery slide
+255, 252, 650 #20110615 Denmark St slippery slide
+255, 249:250, 850 #20110615 Denmark St slippery slide
+257, 251, 650 #20110615 Denmark St slippery slide
+251, 248, 1300 #20110618 Denmark St slippery slide ** one dodgy corner point at south west corner of DS
+252, 251, 300 #20110618 Denmark St slippery slide ** another corner point at north west corner of DS that can be returned to shelf
+253, 251, 300 #20110618 Denmark St slippery slide ** smooth out the diaganol along the western shelf break
+252, 250, 300 #20110618 Denmark St slippery slide ** smooth out the diaganol along the western shelf break
+251, 249, 300 #20110618 Denmark St slippery slide ** smooth out the diaganol along the western shelf break
+250, 248, 300 #20110618 Denmark St slippery slide ** smooth out the diaganol along the western shelf break
+249, 247, 300 #20110618 Denmark St slippery slide ** smooth out the diaganol along the western shelf break
+257, 254, 300 #20110618 Denmark St slippery slide ** smooth out the diaganol along the western shelf break
+258, 251, 650 #20110618 Denmark St slippery slide ** smooth out the diaganol along the western shelf break
